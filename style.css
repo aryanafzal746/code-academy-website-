@@ -1,0 +1,165 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    font-weight: bold;
+    color: black;
+    transition: 1ms;
+}
+a:hover{
+    background-color: rgb(102, 102, 149);
+    border: none;
+    border-radius: 20px;
+}
+.TEXT1{
+    color: blue;
+}
+.text2{
+    color: black;
+    font-family: poppins;
+    font-size: 80px;
+}
+.text3{
+    font-family: poppins;
+    text-transform: capitalize;
+font-weight: bold;
+margin-left:90px;}
+.text5{
+    font-family: poppins;
+    margin-left: 90px;
+}
+.text7{
+    font-family: poppins;
+    font-weight: bold;
+    margin-top: 35px;
+}
+.text8{
+    color: white;
+    font-family: poppins;
+    text-transform: capitalize;
+font-weight: bold;
+margin-left:90px;}
+.text9{
+    color: white;
+    font-family: poppins;
+    text-transform: capitalize;
+    margin-left: 90px;
+
+}
+.footer-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    width: 100%;
+    height: fit-content;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    width: 100%;
+    height: fit-content;
+    color: #131212;
+    background-color: rgb(133, 133, 133);
+    flex-wrap: wrap;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: start;
+    width: fit-content;
+    height: fit-content;
+    padding: 1em;
+    gap: 1em;
+    min-width: 15em;
+    max-width: 25em;
+}
+.onesection{
+    color: black;
+    list-style: none;
+    font-family: poppins;
+    font-weight: lighter;
+}
+.br1{
+    color: #0e0b0b;
+    justify-content: center;
+}
+
+.section>h2 {
+    color: #181616;
+}
+
+.section>a {
+    color: #141111;
+    list-style: none;
+}
+
+.iconContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%!important;
+    height: fit-content;
+    gap: 1em;
+}
+
+.iconContainer>a {
+    color: #0e0b0b;
+    font-size: 1.3em;
+}
+
+.footer-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    width: 100%;
+    height: fit-content;
+}
+
+.footer-input {
+    background-color: #fff;
+    color: #1e221d;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    height: 3em;
+    padding: 1em;
+}
+
+.footer-submit {
+    background-color: #ee5676;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    height: 3em;
+    padding: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
